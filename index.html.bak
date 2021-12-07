@@ -118,7 +118,7 @@
       <div class="offcanvas-body p-0 position-lg-fixed position-relative">
         <div class="row vh-100 g-0">
           <div class="col-12 vh-40 bg-black w-100 position-relative text-white nav-hover-zoom nav-blue-dark"
-            style="height:40%"><img class="nav-img" src="assets/img/navigation/about-4-1.png" alt="..." />
+            style="height:50%"><img class="nav-img" src="assets/img/navigation/about-4-1.png" alt="..." />
             <div class="card-img-overlay d-flex align-items-center h-100 px-5"><a
                 class="text-light fs-1 fs-xl-2 fs-xxl-3 stretched-link items fw-bold text-decoration-none ps-4"
                 href="#about">
@@ -129,7 +129,7 @@
             </div>
           </div>
           <div class="col-12 vh-40 bg-black w-100 position-relative text-white nav-hover-zoom nav-cyan-soft"
-            style="height:40%"><img class="nav-img" src="assets/img/navigation/services-4-1.png" alt="..." />
+            style="height:50%"><img class="nav-img" src="assets/img/navigation/services-4-1.png" alt="..." />
             <div class="card-img-overlay d-flex align-items-center h-100 px-5"><a
                 class="text-light fs-1 fs-xl-2 fs-xxl-3 stretched-link items fw-bold text-decoration-none ps-4"
                 href="#services">
